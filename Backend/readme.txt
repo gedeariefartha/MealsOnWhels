@@ -1,0 +1,2 @@
+- Create database merrymeal_db
+- execute merrymeal.sql in database

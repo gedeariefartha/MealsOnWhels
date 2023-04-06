@@ -1,0 +1,1 @@
+export const DONATION_URL = "http://localhost:8082/api/donation";

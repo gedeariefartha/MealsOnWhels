@@ -1,0 +1,59 @@
+.form-auth {
+    width: 400px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .btn-auth {
+    width: 100%;
+  }
+  
+  .form-error {
+    border-radius: 4px;
+    border: 1px solid #ffa1a1;
+    background-color: #f7c1c1;
+    color: #b40e0e;
+    padding: 12px 20px;
+    margin-bottom: 15px;
+  }
+  
+  .form-success {
+    border-radius: 4px;
+    border: 1px solid #9cfd9c;
+    background-color: #b1ffb1;
+    color: #08a808;
+    font-weight: 500;
+    padding: 12px 20px;
+    margin-bottom: 15px;
+  }
+  
+  .or-separator {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+    position: relative;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 1em;
+  }
+  
+  .or-text {
+    position: absolute;
+    left: 46%;
+    top: 0;
+    background: #fff;
+    padding: 10px;
+    color: rgba(0, 0, 0, 0.45);
+  }
+  
+  .social-btn {
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.social-btn.facebook img {
+  height: 24px;
+  margin-left: 3px;
+}
